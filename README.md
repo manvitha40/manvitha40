@@ -6,18 +6,6 @@ Building scalable full-stack applications, exploring Artificial Intelligence, an
 
 ---
 
-# 🚀 Highlights
-
-🏆 IEEE Best Paper Award Winner (IEEE I5CPS 2026)
-
-🌏 International Research Intern @ Deakin University
-
-☕ Oracle Certified Java SE 17 Developer (88%)
-
-🧩 220+ LeetCode Problems Solved
-
-🚀 4 Featured Software & AI Projects
-
 # 👩‍💻 About Me
 
 💻 Passionate about Full Stack Development
